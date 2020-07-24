@@ -5,6 +5,14 @@ pasta
 pizza
 milk rice
 
+beans
+donuts
+
 thank you
 
+done file
+
+
+
 final code!
+
